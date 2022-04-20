@@ -24,4 +24,8 @@ Descomprimir: unzip archivo.zip
 Copiar clave publica SSH a un Server Linux | SCP y ssh-copy-id
 --------------------------------------------------------------
 https://eltallerdelbit.com/copiar-clave-publica-ssh-scp-ssh-copy-id/
+
+Ansible tutorial
+----------------
+https://www.educba.com/ansible-ping/
 ~~~
