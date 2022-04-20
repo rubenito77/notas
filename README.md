@@ -28,4 +28,6 @@ https://eltallerdelbit.com/copiar-clave-publica-ssh-scp-ssh-copy-id/
 Ansible tutorial
 ----------------
 https://www.educba.com/ansible-ping/
+
+https://www.linuxtechi.com/use-debug-module-ansible-playbook/
 ~~~
